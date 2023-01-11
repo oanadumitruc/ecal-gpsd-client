@@ -102,6 +102,7 @@ bool get_user_input(int argc, char **argv, string &path)
             return false;
         }
     }
+    
     return false;
 }
 
